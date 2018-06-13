@@ -7,7 +7,9 @@
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
-
+def speak_to_grandma(string)
+  
+end
   
 
 
